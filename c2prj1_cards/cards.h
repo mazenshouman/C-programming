@@ -35,4 +35,5 @@ char value_letter(card_t c);
 char suit_letter(card_t c) ;
 void print_card(card_t c);
 card_t card_from_letters(char value_let, char suit_let);
+
 #endif
