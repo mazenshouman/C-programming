@@ -84,6 +84,7 @@ char suit_letter(card_t c) {
   case CLUBS :
     value = 'c';
     break;
+  default : assert(0);break;
   }
   return value;
 }
