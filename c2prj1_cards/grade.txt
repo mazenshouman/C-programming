@@ -1,0 +1,10 @@
+Grading at Mon May 27 12:10:24 UTC 2019
+Compiling cards.c
+cards.c: In function ‘suit_letter’:
+cards.c:74:3: error: enumeration value ‘NUM_SUITS’ not handled in switch [-Werror=switch]
+   switch(c.suit){
+   ^
+cc1: all warnings being treated as errors
+Could not compile your card.c!
+
+Overall Grade: FAILED
