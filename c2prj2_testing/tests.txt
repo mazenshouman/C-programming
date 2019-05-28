@@ -1,0 +1,20 @@
+As Ks Qd Jd 0d 5d 4d; As Ks Qd Jd 0d 5s 3s
+As Ks Qs Js 0s 5d 4d; As Qs 0s As Ks 3s 5s
+As Qs 0d Ad Ks 3s 5s; As Qs 0s As Qs 3s 5s
+5d As Ks Js Qd 0s 9s; Ad Kd Qd Js 0s 3s 5s
+4s 5d 9s 8c Qd 7d As; Ad As Qd Js 3c 5c 7h
+Ad As Qd Qs 3c 5c 7h; Ad As Qd Js 3c 5c 8h
+Ad As Ad Qs 3c 5c 7h; Ad As Jd Qs 3c 5c 8h
+Ad Kd Qs Js 0s 3c 5c; Kd Qd 5c 4s 3s 2s Ac  
+Ad Ks 6s 5s 4s 3s 2c; Ad Ks 6s 5s 4s 2s 2c  
+Ad Ks 6s 5s 4s 3s 2c; Ad Ks Kd Kc 4s 2s 2c
+Ad Ks 6s 5s 4s 3s 2c; Ad Ks Kd Jc 4s 2s 2c
+Ad As Ac Ks Kc 3s 2c; Kd Kc Ks Js 0s 3s 2c
+Ad As Ac Ah Kc 3s 2c; Ad As Ac Ah Kc 3s 2c
+Ad As Ac Ah Jc 3s 2c; Ad As Jh Js Ks 3s 2c
+As Ks Qs Js 0s 3s 2c; As Kd Qh Jc 0s 3s 2c
+As Kd Qh Jc 0s 3s 2c; Ks Kd Qs Qd Js 9s 0s
+As Ks Qs Js 0s 3s 2c; Js Kd Kh 0s 9s 2c 3c
+Ac Kc Qc 3s Jc 0c 3c; Ac Kc Qc Jc 0c 3s 3c
+5s 5c 6s 6c 7s 8s 4c; 5s 5c 6s 6c 5s 4c 8s 
+
