@@ -1,0 +1,6 @@
+*p = 5
+Now *p = 16
+Anarray[0] = 5
+Anarray[1] = 42
+Anarray[2] = 9
+Anarray[3] = 12
