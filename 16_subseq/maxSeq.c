@@ -19,9 +19,10 @@ size_t maxSeq(int * array , size_t n){
       max_counter=counter;
       counter=1;
     }
+    else
+      counter=1;
   }
   if(counter>max_counter)
     max_counter=counter;
   return max_counter;
 }
-
