@@ -3,7 +3,24 @@
 #include <string.h>
 
 void reverse(char * str) {
-  //WRITE ME!
+  size_t Local_counter=0;
+  size_t Local_sizeOfArray=0;
+  if(!str[0])
+    return;
+  while(str[Local_counter++]);
+  Local_sizeOfArray=Local_counter;
+  char  Local_str[Local_sizeOfArray];
+  Local_sizeOfArray-=1;
+  Local_counter=0;
+  while(str[Local_counter]){
+    Local_str[Local_counter]=str[Local_counter];
+    Local_counter+=1;
+  }
+  Local_str[Local_counter]=0;
+  Local_counter=0;
+  while(Local_sizeOfArray>0){
+    str[Local_counter++]=Local_str[--Local_sizeOfArray];
+  } 
 }
 
 int main(void) {
